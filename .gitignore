@@ -1,1 +1,5 @@
-/author_repository
+.DS_Store
+author_repository/
+50m_cultural/
+*.qgz
+*.csv
